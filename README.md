@@ -48,6 +48,17 @@ If you have any issues tell me
 |Site Bypassing| Being able to bypass blocked sites. |
 |Secure Browsing| Hide your Ip easily and securely|
 
+# FrameWork
+
+this uses .NET framework from microsoft
+
+C#
+
+ya
+
+👍
+
+
 # Configuration
 
 You could use Sock 4, Sock 5 and Sock 6
