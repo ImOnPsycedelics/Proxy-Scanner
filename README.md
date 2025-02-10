@@ -26,22 +26,26 @@ Importing proxies:
 
 ![image](https://github.com/user-attachments/assets/f591a9df-1c54-48a3-a057-338d48ea6881)
 
-The proxy txt must be written like
+The proxy txt that you would like to import should be written like this
 ``` 
 1.1.1.1:2020
 1.1.1.2:80
 1.1.1.3:76
 #paste your proxies
 ```
+Or it wont work otherwise
 
-Just find the txt you want to add
+if you have a txt downloaded then select it
 
 ![image](https://github.com/user-attachments/assets/c803079c-5fd2-4b98-9990-d16448e80314)
 
-There isnt a point to getting the the source code unless your palnning on editing the code
+As a disclaimer
+
+There isnt a point to getting the the source code or cloning the app unless your palnning on editing the code
 
 If you have any issues tell me 
 
+Have fun exploring the web safely.
+
 This is for educational purposes I do not condone anything malicious that my app is used for.
 
-Have fun exploring the web safely.
