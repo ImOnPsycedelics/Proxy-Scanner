@@ -33,3 +33,7 @@ Just find the txt you want to add
 There isnt a point to getting the the source code unless your palnning on editing the code
 
 If you have any issues tell me 
+
+This is for educational purposes I do not condone anything malicious that my app is used for.
+
+Have fun exploring the web safely.
