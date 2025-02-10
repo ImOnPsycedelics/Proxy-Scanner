@@ -48,6 +48,13 @@ If you have any issues tell me
 |Site Bypassing| Being able to bypass blocked sites. |
 |Secure Browsing| Hide your Ip easily and securely|
 
+# Configuration
+
+You could use Sock 4, Sock 5 and Sock 6
+so ya
+
+
+
 Have fun exploring the web safely.
 
 This is for educational purposes I do not condone anything malicious that my app is used for.
