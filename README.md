@@ -3,14 +3,14 @@ A simple proxy scanner that checks out proxies and lets you connect to them.
 
 Features:
 
-| Features|
-| --- |
-| Proxy Chaining|
-| Importing Proxy lists| 
-|Proxy Status|
-|Proxy Connectivity|
-|Site Bypassing|
-|Secure Browsing|
+| Features| Descripsion |
+| --- | --- |
+| Proxy Chaining| The ability to switch between different proxies fast. |
+| Importing Proxy lists| Easy ways to import proxy lists. |
+|Proxy Status| Gives you proxy status updates including their connectivty staus and the mb/s. |
+|Proxy Connectivity| Simple way of connecting to proxies via application. |
+|Site Bypassing| Being able to bypass blocked sites. |
+|Secure Browsing| Hiden Ip |
 
 Installation:
 
