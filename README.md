@@ -3,6 +3,7 @@ A simple proxy scanner that checks out proxies and lets you connect to them.
 
 Basically a scanner, a proxy connecter and a proxy chaining app for your web browsing safety.
 
+# A first-level heading
 Features:
 
 | Features| Descripsion |
@@ -14,17 +15,10 @@ Features:
 |Site Bypassing| Being able to bypass blocked sites. |
 |Secure Browsing| Hide your Ip easily and securely|
 
+# A first-level heading
 Installation:
 
-When you install the full compiled version
-
-It should like this
-
-![image](https://github.com/user-attachments/assets/808bf511-0cc3-4f97-bad7-79ab87462e12)
-
 Importing proxies:
-
-![image](https://github.com/user-attachments/assets/f591a9df-1c54-48a3-a057-338d48ea6881)
 
 The proxy txt that you would like to import should be written like this
 ``` 
@@ -36,8 +30,6 @@ The proxy txt that you would like to import should be written like this
 Or it wont work otherwise
 
 if you have a txt downloaded then select it
-
-![image](https://github.com/user-attachments/assets/c803079c-5fd2-4b98-9990-d16448e80314)
 
 As a disclaimer
 
