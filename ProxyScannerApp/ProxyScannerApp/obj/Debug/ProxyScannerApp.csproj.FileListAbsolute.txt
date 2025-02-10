@@ -1,0 +1,10 @@
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\obj\Debug\ProxyScannerApp.csproj.AssemblyReference.cache
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\obj\Debug\ProxyScannerApp.Properties.Resources.resources
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\obj\Debug\ProxyScannerApp.csproj.GenerateResource.cache
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\obj\Debug\ProxyScannerApp.csproj.CoreCompileInputs.cache
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\bin\Debug\ProxyScannerApp.exe.config
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\bin\Debug\ProxyScannerApp.exe
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\bin\Debug\ProxyScannerApp.pdb
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\obj\Debug\ProxyScannerApp.Form1.resources
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\obj\Debug\ProxyScannerApp.exe
+C:\Users\arden\source\repos\ProxyScannerApp\ProxyScannerApp\obj\Debug\ProxyScannerApp.pdb
