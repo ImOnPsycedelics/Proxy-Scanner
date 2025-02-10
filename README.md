@@ -3,7 +3,7 @@ A simple proxy scanner that checks out proxies and lets you connect to them.
 
 Basically a scanner, a proxy connecter and a proxy chaining app for your web browsing safety.
 
-# A Installation
+# Installation
 
 Intall the complied vesion in Releases
 
@@ -24,7 +24,7 @@ As a disclaimer there isnt a point to getting the the source code or cloning the
 
 If you have any issues tell me 
 
-# A Features
+# Features
 
 | Features| Descripsion |
 | --- | --- |
