@@ -1,6 +1,8 @@
 # Proxy-Scanner
 A simple proxy scanner that checks out proxies and lets you connect to them.
 
+Basically a scanner, a proxy connecter and a proxy chaining app for your web browsing safety.
+
 Features:
 
 | Features| Descripsion |
