@@ -10,7 +10,7 @@ Features:
 |Proxy Status| Gives you proxy status updates including their connectivty staus and the mb/s. |
 |Proxy Connectivity| Simple way of connecting to proxies via application. |
 |Site Bypassing| Being able to bypass blocked sites. |
-|Secure Browsing| Hiden Ip |
+|Secure Browsing| Hide your Ip easily and securely|
 
 Installation:
 
