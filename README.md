@@ -4,12 +4,12 @@ A simple proxy scanner that checks out proxies and lets you connect to them.
 Features:
 
 | Features  | 
-| ------------- |
 | Proxy Chaining  |
-| ------------- |
 | Importing Proxy lists  | 
-| ------------- |
 |Proxy Status|
+|Proxy Connectivity|
+|Site Bypassing|
+|Secure Browsing|
 
 Installation:
 
