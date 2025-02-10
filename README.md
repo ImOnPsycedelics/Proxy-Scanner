@@ -3,6 +3,19 @@ A simple proxy scanner that checks out proxies and lets you connect to them.
 
 Basically a scanner, a proxy connecter and a proxy chaining app for your web browsing safety.
 
+# OS Support
+
+|OS|Support|
+| --- | --- |
+|Windows|Yes|
+|MacOS|N/A|
+|Linux|N/A|
+|IOS|N/A|
+|Android|N/A|
+|Temple OS|N/A|
+
+There probably wont be any other supported operating systems but we will see
+
 # Installation
 
 Intall the complied vesion in Releases
