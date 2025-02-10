@@ -3,20 +3,9 @@ A simple proxy scanner that checks out proxies and lets you connect to them.
 
 Basically a scanner, a proxy connecter and a proxy chaining app for your web browsing safety.
 
-# A first-level heading
-Features:
+# A Installation
 
-| Features| Descripsion |
-| --- | --- |
-| Proxy Chaining| The ability to switch between different proxies fast. |
-| Importing Proxy lists| Easy ways to import proxy lists. |
-|Proxy Status| Gives you proxy status updates including their connectivty staus and the mb/s. |
-|Proxy Connectivity| Simple way of connecting to proxies via application. |
-|Site Bypassing| Being able to bypass blocked sites. |
-|Secure Browsing| Hide your Ip easily and securely|
-
-# A first-level heading
-Installation:
+Intall the complied vesion in Releases
 
 Importing proxies:
 
@@ -31,11 +20,20 @@ Or it wont work otherwise
 
 if you have a txt downloaded then select it
 
-As a disclaimer
-
-There isnt a point to getting the the source code or cloning the app unless your palnning on editing the code
+As a disclaimer there isnt a point to getting the the source code or cloning the app unless your palnning on editing the code
 
 If you have any issues tell me 
+
+# A Features
+
+| Features| Descripsion |
+| --- | --- |
+| Proxy Chaining| The ability to switch between different proxies fast. |
+| Importing Proxy lists| Easy ways to import proxy lists. |
+|Proxy Status| Gives you proxy status updates including their connectivty staus and the mb/s. |
+|Proxy Connectivity| Simple way of connecting to proxies via application. |
+|Site Bypassing| Being able to bypass blocked sites. |
+|Secure Browsing| Hide your Ip easily and securely|
 
 Have fun exploring the web safely.
 
