@@ -3,9 +3,13 @@ A simple proxy scanner that checks out proxies and lets you connect to them.
 
 Features:
 
-- Lets you scan a list of proxies from a txt file
-- Proxy chaining
-- Proxy scaning(mb/s and the proxies status)
+| Features  | 
+| ------------- |
+| Proxy Chaining  |
+| ------------- |
+| Importing Proxy lists  | 
+| ------------- |
+|Proxy Status|
 
 Installation:
 
@@ -18,6 +22,8 @@ It should like this
 Importing proxies:
 
 ![image](https://github.com/user-attachments/assets/f591a9df-1c54-48a3-a057-338d48ea6881)
+
+Just find the txt you want to add
 
 ![image](https://github.com/user-attachments/assets/c803079c-5fd2-4b98-9990-d16448e80314)
 
