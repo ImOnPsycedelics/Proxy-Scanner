@@ -26,6 +26,14 @@ Importing proxies:
 
 ![image](https://github.com/user-attachments/assets/f591a9df-1c54-48a3-a057-338d48ea6881)
 
+The proxy txt must be written like
+``` 
+1.1.1.1:2020
+1.1.1.2:80
+1.1.1.3:76
+#paste your proxies
+```
+
 Just find the txt you want to add
 
 ![image](https://github.com/user-attachments/assets/c803079c-5fd2-4b98-9990-d16448e80314)
